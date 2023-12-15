@@ -1,0 +1,73 @@
+h1{
+    text-align: center;
+    font-style: oblique;
+    background-color: #161A30;
+    color: #F0ECE5;
+
+}
+h3{
+    font-style: italic;
+    background-color: #31304D;
+    color: #F0ECE5;
+}
+body{
+    background-color: #F0ECE5;
+}
+#pp1{
+    font-size: medium;
+}
+
+button{
+    background-color: aqua;
+} 
+
+a{
+    padding: auto;
+
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background-color: #B6BBC4;
+}
+
+th, td {
+    padding: 5px;
+    border: 2px solid #F0ECE5;
+    text-align: left;
+    text-align: center;
+}
+
+th {
+    background-color: #161A30;
+    color: #F0ECE5;
+}
+.question{
+    font-style: oblique;
+    font-size: large;
+    font-weight: bold;
+}
+#name1,#email1{
+    border-radius: 5%;
+    background-color: #B6BBC4;
+    color: #161A30;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: left;
+}
+h2{
+    color: #31304D;
+    text-shadow: #161A30;
+}
+.hehe1{
+    border-radius: 5%;
+    box-shadow: #161A30;
+}
+#button2{
+    background-color: #B6BBC4;
+    border-radius: 3%;
+}
